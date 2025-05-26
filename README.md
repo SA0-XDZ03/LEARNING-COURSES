@@ -1,8 +1,8 @@
+---
+description: Daily Learning & Course Work Updates - For Progress Tracking
+---
+
 # README.md
-
-## LEARNING & COURSES
-
-Daily Learning & Course Work Updates - For Progress Tracking
 
 #### TO-DO
 
