@@ -1,6 +1,10 @@
-# LEARNING & COURSES
-Daily Learning & Course Work Updates - For Progress Tracking
+---
+description: Daily Learning & Course Work Updates - For Progress Tracking
+---
 
+# README.md
 
-### TO-DO
-- [ ] GitBook Integration
+#### TO-DO
+
+* [x] &#x20;GitBook Integration
+
